@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-04T12:14:06.481865Z</date>
+  <millis>1688472846481</millis>
+  <nanos>865000</nanos>
+  <sequence>0</sequence>
+  <logger>HW_2_seminar.T2</logger>
+  <level>INFO</level>
+  <class>HW_2_seminar.T2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Sort Array</message>
+</record>
+</log>
